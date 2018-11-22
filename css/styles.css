@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+.cover{
+    width: 1007px;
+    height: 650px;
+    margin-bottom: 4rem;
+}
+
+.divider-products{
+    margin: 3rem;
+}
+
+.space{
+    margin: 1rem;
+}
+
+.product-header{
+    text-align: center;
+    margin-bottom: 4rem;
+    font-family: 'Comfortaa', cursive;
+    color: #3f4196;
+}
+
+.text-primary{
+    font-family: 'Comfortaa', cursive;
+    color: #3f4196;
+}
+
+
+.footer-center div{
+    margin: 10px;
+}
+
+.footer-center p{
+    display: inline-block;
+    font-size: 1.3rem;
+	color: #ffffff;
+	vertical-align: middle;
+    margin:0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.aboutus{
+    margin-bottom: 2rem;
+    font-family: 'Comfortaa', cursive;
+    color: #3f4196;
+}
+
+cite{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:#5d5b5b;
+}
+
+.product-item{
+    margin-bottom: 1rem;
+    transition: all .2s ease-in-out;
+}
+
+.product-item:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.wrapper{
+    margin-top: 4rem;
+}
